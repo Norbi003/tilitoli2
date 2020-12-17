@@ -1,0 +1,15 @@
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\bin\Debug\ToliToli.exe.config
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\bin\Debug\ToliToli.exe
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\bin\Debug\ToliToli.pdb
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.csprojAssemblyReference.cache
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\MainWindow.g.cs
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\App.g.cs
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli_MarkupCompile.cache
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli_MarkupCompile.lref
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\MainWindow.baml
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.g.resources
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.Properties.Resources.resources
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.csproj.GenerateResource.cache
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.csproj.CoreCompileInputs.cache
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.exe
+C:\Andrew\Programming\C#\Application\ToliToli\ToliToli\obj\Debug\ToliToli.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="ToliToli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToliToli"
+        mc:Ignorable="d"
+        Title="TiliToli" Height="450" Width="450">
+    <Grid>
+        <Button x:Name="Button0" Content="0" HorizontalAlignment="Left" Margin="240,150,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button8" Content="8" HorizontalAlignment="Left" Margin="190,150,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button7" Content="7" HorizontalAlignment="Left" Margin="140,150,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button6" Content="6" HorizontalAlignment="Left" Margin="240,100,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button5" Content="5" HorizontalAlignment="Left" Margin="190,100,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button4" Content="4" HorizontalAlignment="Left" Margin="140,100,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button3" Content="3" HorizontalAlignment="Left" Margin="240,50,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button2" Content="2" HorizontalAlignment="Left" Margin="190,50,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Button1" Content="1" HorizontalAlignment="Left" Margin="140,50,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <Button x:Name="Keveres" Content="Keverés" HorizontalAlignment="Left" Margin="113,274,0,0" VerticalAlignment="Top" Width="75" Click="Keveres_Click"/>
+        <Button x:Name="Ellenoriz" Content="Ellenőrzés" HorizontalAlignment="Left" Margin="238,274,0,0" VerticalAlignment="Top" Width="75" Click="Ellenoriz_Click"/>
+
+    </Grid>
+</Window>
